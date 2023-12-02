@@ -8,7 +8,7 @@
                 "-fdiagnostics-color=always",
                 "-g",
                 // "${file}",
-                "*.cpp", //当前文件夹所有的.c文件都编译
+                "*.c", //当前文件夹所有的.c文件都编译
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
