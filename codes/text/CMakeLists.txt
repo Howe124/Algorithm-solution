@@ -1,0 +1,1 @@
+add_executable(text text.cpp textt.cpp t.hpp)

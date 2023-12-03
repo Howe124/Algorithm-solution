@@ -1,10 +1,12 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include "t.hpp"
+
 
 int main()
 {
-    vector<int> a(3,0);
+    vector<int> a;
     vector<int> arr;
-    cout << "你好 Word!!";
+    cout << "Hello Word!!";
+    int i = res();
+    cout << i;
     return 0;
 }
