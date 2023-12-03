@@ -1,2 +1,0 @@
-
-int re(int a);
