@@ -5,7 +5,7 @@ int main()
 {
     vector<int> a(3,0);
     vector<int> arr;
-    cout << "hello work!!";
+    cout << "Hello Word!!";
     return 0;
     
 }
