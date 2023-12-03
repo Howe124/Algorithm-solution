@@ -1,6 +1,5 @@
 #include "t.hpp"
 
-
 int main()
 {
     vector<int> a;
