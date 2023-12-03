@@ -5,7 +5,6 @@ int main()
 {
     vector<int> a(3,0);
     vector<int> arr;
-    cout << "Hello Word!!";
+    cout << "你好 Word!!";
     return 0;
-    
 }
